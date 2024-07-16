@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O25dI8HhTtpnfYT9azgSe8i4ZW/I8kdiykQD/+tuwr9hsk3S2u87PDn3zG/Y7hVzQtjOSeoOetxGcuK/GSx4nw==",
+  "success": true,
+  "projectFilePath": "D:\\4 курс 2 семестр\\Защита информации\\5 л.р\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.maui.graphics\\8.0.6\\microsoft.maui.graphics.8.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.maui.graphics.skia\\8.0.6\\microsoft.maui.graphics.skia.8.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
